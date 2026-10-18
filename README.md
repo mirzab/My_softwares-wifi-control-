@@ -1,0 +1,2 @@
+# wifi-control
+ A lightweight, modern Wi-Fi management GUI for Linux Mint and Ubuntu, built with Python and Tkinter. Features Wi-Fi on/off controls, network scanning, signal strength and security information, network connection management, adapter status monitoring, and an option to fix unmanaged Wi-Fi adapters using NetworkManager. Includes a custom application icon and easy installation scripts.
